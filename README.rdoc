@@ -1,3 +1,8 @@
+Thanks to:
+
+http://hdnrnzk.me/2012/03/23/ruby-koans-with-guard-shell/
+===
+
 = Neo Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
