@@ -1,6 +1,12 @@
 "Koans Meditation" Thanks to:
 
 http://hdnrnzk.me/2012/03/23/ruby-koans-with-guard-shell/
+
+```
+guard --notify false
+
+```
+
 ===
 
 = Neo Ruby Koans
